@@ -10,3 +10,6 @@
 
 *Fear is the mind killer...*
 ![*Fear is the mind killer...*](https://i.pinimg.com/736x/63/9e/c7/639ec7a0a5ddd80b79a2efc049bdfb1f.jpg)
+
+- 🎶 Dica de música boa:
+[![Dica de música boa](https://yt3.googleusercontent.com/ytc/AMLnZu_9kYw_Z3mIyWLLAIHAl7LkDSHMAySDoHniyzLVzg=s176-c-k-c0x00ffffff-no-rj-mo)](https://www.youtube.com/watch?v=fe141VJ6Yys)
