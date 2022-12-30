@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá, estranho 👋. Eu sou o Erick De Rossi.
 
-<!--
-**ericktherossi/ericktherossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Treinando um pouco com projetos simples para usar como portfolio.
+- 🌱 Tentando aprender a usar o github, ML e focando em pequenos projetos com R/Python/SQL.
+- 👯 Gostaria de colaborar com algo relacionado a Machine Learning.
+- 🤔 Qualquer ajude ou dica é muito bem vinda.🙃
+- 💬 Pode me perguntar qualquer coisa, se eu conseguir resposnder ficarei feliz. 
+- 📫 Contatos: erickderossifaria@gmail.com
+- ⚡ Fato interessante: Não consigo comer ketchup.🤢 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Fear is the mind killer...*
+![*Fear is the mind killer...*](https://i.pinimg.com/736x/63/9e/c7/639ec7a0a5ddd80b79a2efc049bdfb1f.jpg)
