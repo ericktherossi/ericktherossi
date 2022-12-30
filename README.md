@@ -4,7 +4,7 @@
 - 🌱 Tentando aprender a usar o github, ML e focando em pequenos projetos com R/Python/SQL.
 - 👯 Gostaria de colaborar com algo relacionado a Machine Learning.
 - 🤔 Qualquer ajude ou dica é muito bem vinda.🙃
-- 💬 Pode me perguntar qualquer coisa, se eu conseguir resposnder ficarei feliz. 
+- 💬 Pode me perguntar qualquer coisa, se eu conseguir responder ficarei feliz. 
 - 📫 Contatos: erickderossifaria@gmail.com
 - ⚡ Fato interessante: Não consigo comer ketchup.🤢 
 
