@@ -10,12 +10,6 @@
 
 *Fear is the mind killer...*
 ![*Fear is the mind killer...*](https://i.pinimg.com/736x/63/9e/c7/639ec7a0a5ddd80b79a2efc049bdfb1f.jpg)
-
-<div align="center">
-  <a href="https://github.com/ericktherossi">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ericktherossi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericktherossi&layout=compact&langs_count=7&theme=merko"/>
-</div>
   
  ##
   
