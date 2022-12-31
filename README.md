@@ -1,6 +1,6 @@
 ### Olá, estranho 👋. Eu sou o Erick De Rossi.
 
-- 🔭 Treinando um pouco com projetos simples para usar como portfolio.
+- 🔭 Treinando um pouco com projetos simples para usar como portfólio.
 - 🌱 Tentando aprender a usar o github, ML e focando em pequenos projetos com R/Python/SQL.
 - 👯 Gostaria de colaborar com algo relacionado a Machine Learning.
 - 🤔 Qualquer ajuda ou dica é muito bem vinda.🙃
