@@ -34,8 +34,6 @@
 <div> 
   <a href="https://www.youtube.com/watch?v=fe141VJ6Yys" target="_blank"><img src="https://yt3.googleusercontent.com/ytc/AMLnZu_9kYw_Z3mIyWLLAIHAl7LkDSHMAySDoHniyzLVzg=s176-c-k-c0x00ffffff-no-rj-mo"></a> 
 </div>
-
-[![Dica de música boa](https://yt3.googleusercontent.com/ytc/AMLnZu_9kYw_Z3mIyWLLAIHAl7LkDSHMAySDoHniyzLVzg=s176-c-k-c0x00ffffff-no-rj-mo)](https://www.youtube.com/watch?v=fe141VJ6Yys)
   
  ##
   
