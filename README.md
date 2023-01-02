@@ -1,7 +1,7 @@
 ### Olá, estranho 👋. Eu sou o Erick De Rossi.
 
 - 🔭 Treinando um pouco com projetos simples para usar como portfólio.
-- 🌱 Tentando aprender a usar o github, ML e focando em pequenos projetos com R/Python/SQL.
+- 🌱 No momento: aprendendo a fazer dashboard interativo com shiny/flexdashboard e aprendendo um pouco de webscraping.
 - 👯 Gostaria de colaborar com algo relacionado a Machine Learning.
 - 🤔 Qualquer ajuda ou dica é muito bem vinda.🙃
 - 💬 Pode me perguntar qualquer coisa, se eu conseguir responder ficarei feliz. 
