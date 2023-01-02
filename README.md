@@ -2,7 +2,7 @@
 
 - 🔭 Treinando um pouco com projetos simples para usar como portfólio.
 - 🌱 No momento: aprendendo a fazer dashboard interativo com shiny/flexdashboard e aprendendo um pouco de web scraping.
-- 👯 Gostaria de colaborar com algo relacionado a Machine Learning.
+- 🤜🤛 Gostaria de colaborar com algo relacionado a Machine Learning.
 - 🤔 Qualquer ajuda ou dica é muito bem vinda.🙃
 - 💬 Pode me perguntar qualquer coisa, se eu conseguir responder ficarei feliz. 
 - 📫 Contatos: erickderossifaria@gmail.com
