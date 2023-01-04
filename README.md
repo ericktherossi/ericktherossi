@@ -1,8 +1,7 @@
 ### Olá, estranho 👋. Eu sou o Erick De Rossi.
 
-- 🔭 Treinando um pouco com projetos simples para usar como portfólio.
-- 🌱 No momento: aprendendo a fazer dashboard interativo com shiny/flexdashboard e aprendendo um pouco de web scraping.
-- 🤜🤛 Gostaria de colaborar com algo relacionado a Machine Learning.
+- 🔭 Treinando um pouco com projetos pessoais, entendi um pouco de web scraping e sempre tem a boa e velha Kaggle.
+- 🌱 No momento: tentando uma leve introdução a deep learning.
 - 🤔 Qualquer ajuda ou dica é muito bem vinda.🙃
 - 💬 Pode me perguntar qualquer coisa, se eu conseguir responder ficarei feliz. 
 - 📫 Contatos: erickderossifaria@gmail.com
