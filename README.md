@@ -1,9 +1,9 @@
 ### Olá, estranho 👋. Eu sou o Erick De Rossi.
 
-- 🔭 Treinando um pouco com projetos pessoais, entendi um pouco de web scraping e sempre tem a boa e velha Kaggle.
+- 🔭 Treinando um pouco com projetos pessoais: entendi um pouco de web scraping e sempre tem o boa e velho Kaggle.
 - 🌱 No momento: tentando uma leve introdução a deep learning.
 - 🤔 Qualquer ajuda ou dica é muito bem vinda.🙃
-- 💬 Pode me perguntar qualquer coisa, se eu conseguir responder ficarei feliz. 
+- 💬 Pode me perguntar qualquer coisa, ficarei feliz no que puder ajudar. 
 - 📫 Contatos: erickderossifaria@gmail.com
 - ⚡ Fato interessante: Não consigo comer ketchup.🤢 
 
